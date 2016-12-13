@@ -1,9 +1,9 @@
 # ShareBox
-==========
+----------
 ### Mobile Programming 2016-2
 
 
-|Name           | UserName  |
+|      Name     | UserName  |
 |--------------:| ---------:|
 | Lee Do Hyung  | esrenll   |
 | Kim Ha Neul   | haneulk   |
