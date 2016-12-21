@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+<color name="colorPrimaryDark">#303F9F</color>
+<color name="colorAccent">#43ccc8</color>
+
+    <color name="h_ActionBar">#393F59</color>
+    <color name="h_StatusBar">#6A687E</color>
+    </resources>
+
+
