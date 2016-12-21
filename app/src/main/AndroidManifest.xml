@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hnkim.sharebox">
+    <uses-permission  android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/sharebox_icon"
+        android:label="ShareBox"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.hnkim.sharebox.MainActivity"
+            android:label="ShareBox"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="keyboardHidden|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.example.hnkim.sharebox.Splash"
+            android:theme="@style/SplashTheme"></activity>
+
+        <activity android:name="com.example.hnkim.sharebox.ExplorerActivity"
+            android:label="내부 저장소"></activity>
+        <activity
+            android:name="com.example.hnkim.sharebox.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+
+
+        <activity android:name="com.example.hnkim.sharebox.MemoryAnalyzer"
+            android:label="저장소 분석기" ></activity>
+    </application>
+
+</manifest>
