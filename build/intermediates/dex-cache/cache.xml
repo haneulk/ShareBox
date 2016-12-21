@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02aaa8f4041fcc34c3d7b9da3d4ee16c494a1501">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b5e16a6fa730e2a34fd3ae3aba275250044f86ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2ee7712feb619f200d4f6eb7fc221b6361eaf0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_9450f9c7bbd274fe651828ee7827c17fdd64b290\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0a5bca292a26c2d216e3d5989f83055daf054489\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6f742bfd6c154cfbaf3e8840c44926a9686a3668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_598c4acb34c4770a2fb6183206531e37587ce9cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_552bd569ac853970bb1eebd5674d4bca8d700f6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_dc23a4cca260bcdca4618ba3545b926a6bffc8cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_72cd22aa0ad31b00d597bacc3e20f1440ef8fd55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_94f63968ca565c7ec0bdeaa8acbd069f9beb1c24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b5d4d3f6c2c2da69d5b7d65dba38c42d6de0ab83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.1.6\b036abbb61656165da99cf44898e4b9123687e65\MPAndroidChart-v2.1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b036abbb61656165da99cf44898e4b9123687e65">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.1.6_ed9a84c7e805453db4d118b4cea4fdc588c2b5a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_9eb20dea9f4e8b8afb6afc67b8eda8684a91c521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_90a8f100203896e5b04350ba2dcd087a76668850\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_1e823d69f58d93bca51ce13418c6a72231016705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="17c269ab8287fafd2deb52711efdaa7f13aa8101">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_61d49f3628941d1cb3a89318fb575bc1a0ea050d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_c901548bcc19c80c5d1e502df2de444532486ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a6336456ce82abd23014f4ceccf10c89e7fce688">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3de9ea8f987dcfaeecca3ec943eb91698132f471\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_49169cfd4f1da893599488ec1447613ffd2dfb73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_a49fd9b801f8699ca2b12d25c60de3f5b0b00edd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a3394c0da4b0d157236b978efd4a83bec53afee5">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bf6bdfcb4d4fbc1a6e11f874fdebfecb6dec4e4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_a7b0947a3d8411493f628c1b4cb2d846da5bd31c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_c0f7725e123239bd0cb8687c347e786ad482f80c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_4fd5eb71d50829405916185cd48afcc700f7b601\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_3d030201e3b2a8ca3196ffaf6c2037511a5036a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_be6a74ba9b95ac1df667ca7c92de38d0ff5c230a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_06099a34e3bd05a7603ac7a88215ebb469c91bcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_77ac9fdf7d1cf1a359ef74d54c045f40076268db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0b1f1fa2d942b9c20cbda078dec81f77d35700b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_8ad63104764f6df93ae83e7c94938d25a067d612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_0d498601bf1258abe4e22a2d18552165fc6af860\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c8e7f74258f2ec8f6ab805cd3d51a789b58b37d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_47f9eea79237d702c98f9bc686c27cd7fd34033d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_f9a685c1c064f2e8b5e59a05d7c5e2b28aa6edc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_c8d4c4c1be8069313a8cdbc9177e6591fd3eccd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\NavigationDrawer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_98c9350bd65f6ce179585ccc8ab3c58426ac6dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_2b1a9fdd948fef5f4904202963d87bea9ce1d1f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\hnkim\AndroidStudioProjects\ShareBox\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_e993d1d3e9c446ac0a7da0c1add68b8c712a22cb\classes.dex" />
+    </item>
+
+</items>
