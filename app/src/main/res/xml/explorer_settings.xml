@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="탐색"
+        android:key="pref_key_explorer_settings">
+        <SwitchPreference
+            android:key="pref_show_hidden_file"
+            android:title="숨김 파일 표시"
+            android:summary="숨김 파일을 표시합니다. 숨김 파일은 파일 이름이 .으로 시작되는 파일입니다."
+            android:defaultValue="false" />
+        <ListPreference
+            android:defaultValue="이름 오름차순"
+            android:entries="@array/pref_explorer_sortbase"
+            android:entryValues="@array/pref_explorer_sortbase"
+            android:key="pref_explorer_sortbase"
+            android:negativeButtonText="취소"
+            android:positiveButtonText="설정"
+            android:title="정렬 기준"
+            android:summary="탐색기에 표시되는 파일들의 순서 기준을 정합니다."/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

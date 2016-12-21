@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_settings">설정</string>
+
+    <!-- Strings related to Settings -->
+    <string-array name="pref_explorer_sortbase">
+        <item>이름 오름차순</item>
+        <item>이름 내림차순</item>
+        <item>날짜 오름차순</item>
+        <item>날짜 내림차순</item>
+    </string-array>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+</resources>
